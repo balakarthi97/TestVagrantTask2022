@@ -30,7 +30,9 @@ Properties file - contains url and name.
 
 ## Data Used
 URL1=https://www.imdb.com/
+
 URL2=https://www.wikipedia.org/
+
 MovieName=Pushpa: The Rise
 
 ## End Notes
