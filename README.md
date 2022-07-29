@@ -28,6 +28,11 @@ src/test/resouces > 1 Package & 1 File.
 Feature file - Test case scenario from end user point of view. 
 Properties file - contains url and name. 
 
+## Data Used
+URL1=https://www.imdb.com/
+URL2=https://www.wikipedia.org/
+MovieName=Pushpa: The Rise
+
 ## End Notes
 In order to verify the details and compare the data, Hard Assertions were used for strict validation. In the absence of matching data, the assertion will fail. Eclipse will provide a console report that we can use to validate.
 
